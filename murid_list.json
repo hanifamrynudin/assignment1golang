@@ -1,0 +1,18 @@
+{
+    "Murid_List" : [
+        {
+            "ID": 1,
+            "Nama": "Hanif Fadillah Amrynudin",
+            "Alamat": "Tegal",
+            "Pekerjaan": "Presiden",
+            "Alasan": "Karna ketika nyebut golang teringat lagu si bolang."
+        },
+        {
+            "ID": 2,
+            "Nama": "Samaran",
+            "Alamat": "Jl.in aja dulu",
+            "Pekerjaan": "Cari kerja biar pas ditanya ga bingung",
+            "Alasan": "Alasan apalagi yang kau cari ketika dia telah dia miliki orang lain"
+        }
+    ]
+}
